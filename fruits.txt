@@ -1,3 +1,6 @@
-apple
-banana
-chery
+Apple
+Mango
+Grape
+Orange
+Pineapple
+
